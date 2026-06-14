@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG ! tag:yaml.org,2002:base64,
+--- !u!81 &1
+ProjectSettings:
+  m_ObjectHideFlags: 0
+  m_Serialization:
+    m_SerializedVersion: 2
+  serializedVersion: 12
+  activeInputHandler: 0
+  m_Version:
+    m_Versions:
+    - serializedVersion: 3
+      m_Version: '2022.3.0'

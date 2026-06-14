@@ -1,0 +1,64 @@
+{
+  "aircraft": [
+    {
+      "name": "Rafale",
+      "nation": "France",
+      "maxSpeed": 2200,
+      "acceleration": 50,
+      "turnRate": 90,
+      "missiles": 8,
+      "cannon": 500,
+      "fuel": 4700,
+      "armor": 8,
+      "description": "Omni-role fighter with excellent agility"
+    },
+    {
+      "name": "F-35 Lightning II",
+      "nation": "USA",
+      "maxSpeed": 1920,
+      "acceleration": 45,
+      "turnRate": 75,
+      "missiles": 6,
+      "cannon": 220,
+      "fuel": 5250,
+      "armor": 9,
+      "description": "Stealth fighter with advanced avionics"
+    },
+    {
+      "name": "F-22 Raptor",
+      "nation": "USA",
+      "maxSpeed": 2410,
+      "acceleration": 55,
+      "turnRate": 95,
+      "missiles": 8,
+      "cannon": 480,
+      "fuel": 6100,
+      "armor": 8,
+      "description": "5th generation air superiority fighter"
+    },
+    {
+      "name": "F-15 Eagle",
+      "nation": "USA",
+      "maxSpeed": 2660,
+      "acceleration": 60,
+      "turnRate": 80,
+      "missiles": 8,
+      "cannon": 940,
+      "fuel": 7722,
+      "armor": 7,
+      "description": "Twin-engine heavy fighter with high speed"
+    },
+    {
+      "name": "F-16 Fighting Falcon",
+      "nation": "USA",
+      "maxSpeed": 2124,
+      "acceleration": 55,
+      "turnRate": 100,
+      "missiles": 6,
+      "cannon": 500,
+      "fuel": 5410,
+      "armor": 6,
+      "description": "Lightweight, agile multi-role fighter"
+    }
+  ]
+}
